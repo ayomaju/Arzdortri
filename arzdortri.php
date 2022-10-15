@@ -1,7 +1,7 @@
 <?php 
   
  echo @color("nevy","───────────────────────────────────────────\n"); 
- echo @color("blue","                Arz_Vpn_Store               \n"); 
+ echo @color("blue","                Arz_Vpn_Store              \n"); 
  echo @color("nevy","───────────────────────────────────────────\n"); 
  echo @color('yellow', "NOMOR\t\t: "); 
  $nomor = trim(fgets(STDIN)); 
